@@ -1,13 +1,19 @@
 
 Answers to Elevation Coding Challenge for Mike Andrews
 
+To run:
 
-
+1. Clone repo https://github.com/MikeAndrews777/elevationTest
+2. Run composer install to grab any missing files
+3. Copy env.example to .env
+4. Run php artisan generate:key
+4. Visit homepage
+5. Upload file and view results
 
 
 --------------------------------------
 
-Coding Challenge
+Details of Coding Challenge
 
 Task:
 You will be taking a flat file (provided) and parsing the modified content onto a webpage in a table. All Information provided in the file should be displayed.
