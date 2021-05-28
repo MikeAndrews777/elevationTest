@@ -17,4 +17,3 @@ Route::get('/', 'DataReaderController@show');
 
 Route::post('/upload', 'DataReaderController@upload')->name('upload');
 
-Route::get('/table', 'DataReaderController@index');

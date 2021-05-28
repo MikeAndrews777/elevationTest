@@ -23,18 +23,12 @@
 
 <body>
 
-<div style="padding-left:27px">
-
-    <a href="/" >Home</a>
-    <a href="/table" >Table View</a>
-
-</div>
-
 <h1 class="title is-1">Elevation Test</h1>
 
 <div class="container">
 
     <div class="panel panel-primary">
+        <br />
         <div class="panel-heading"><h2>Select Test File</h2></div>
         <div class="panel-body">
 
