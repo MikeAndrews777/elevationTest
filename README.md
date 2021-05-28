@@ -26,15 +26,12 @@ Code
 Status
 
 1
-
 Active
 
 2
-
 Inactive
 
 3
-
 Pending
 
 
@@ -47,18 +44,14 @@ Code
 Reason
 
 X
-
 Customer Requested
 
 R
-
 Invalid Account
 
 P
-
 Account Pending Switch
 
 U
-
 Utility Requested
 
