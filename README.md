@@ -24,12 +24,19 @@ Flat File Layout:
 
 Code
 Status
+
 1
+
 Active
+
 2
+
 Inactive
+
 3
+
 Pending
+
 
 • Field 3- Account name (up to 20 Characters long)
 • Field 4- Rate (4 characters long)
@@ -38,11 +45,20 @@ Pending
 
 Code
 Reason
+
 X
+
 Customer Requested
+
 R
+
 Invalid Account
+
 P
+
 Account Pending Switch
+
 U
+
 Utility Requested
+
